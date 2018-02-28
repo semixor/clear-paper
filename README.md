@@ -1,2 +1,2 @@
 # clear-paper
-Angular2 Frontend Framework
+Clear like a Paper Frontend Framework
